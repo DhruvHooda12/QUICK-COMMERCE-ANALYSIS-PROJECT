@@ -161,7 +161,7 @@ jupyter notebook blinkit_analysis_PYTHON.ipynb
 
 ## Related Project
 
-📊 **[Blinkit Sales Dashboard — Power BI](#)**: the same dataset turned into an interactive dashboard.
+📊 **[BLINKIT-DASHBOARD-USING-POWERBI](#)**: the same dataset turned into an interactive dashboard.
 
 ---
 
